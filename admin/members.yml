@@ -1,0 +1,14 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Paul Won
+    uid: u7158520
+    contact: paul.won@anu.edu.au
+  - name: Yuxuan Yang
+    uid: u7078049
+    contact: u7078049@anu.edu.au
+  - name: Chensheng Zhang
+    uid: u6615215
+    contact: u6615215@anu.edu.au

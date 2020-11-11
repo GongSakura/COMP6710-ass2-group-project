@@ -1,0 +1,28 @@
+# IMPORTANT: It is very important that you correctly complete this contribution
+# statement.
+ 
+declaration: >-
+  Stage G represents the culmunation of the entire assignment.  We declare that
+  the work toward our submission for all stages of this assignment was
+  distributed among the group members as follows:
+
+# State your contributions as integers out of 100. The total contribution should
+# be 100 or 99 (33/33/33 is fine).  (Remove entries if you have fewer than three
+# members).
+contributions:
+  - uid: u7158520
+    contribution: 30
+  - uid: u6615215
+    contribution: 30
+  - uid: u7078049
+    contribution: 40
+
+# Sign *your* name and uids here. (Remove entries if you have fewer
+# than three members)
+signatures:
+  - name: Paul Won
+    uid: u7158520
+  - name: Chensheng Zhang
+    uid: u6615215
+  - name: Yuxuan Yang
+    uid: u7078049
